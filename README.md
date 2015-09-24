@@ -22,6 +22,8 @@ python capture.py
 export TERM=xterm-256color && python color.py WIDTH_IN_CHARS
 ```
 
+If you want to take an ascii screenshot, press 'p'
+
 demo
 ----
 
